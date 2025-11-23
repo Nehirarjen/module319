@@ -1,0 +1,5 @@
+**D1 Verbesserungen**
+1) [Eine nicht-initialisierte Variable führt bei der Ausführung zu einem Laufzeitfehler.] ist falsch ➞ Warum?   
+Es ist falsch, weil nicht jede Sprache bei einer nicht-initialisierte Varibale einen Laufzeitfehler erzeugt.   
+
+2) [Die Anzahl Bits in Java für den Datentyp char ist 8]  ist falsch ➞ Warum?   

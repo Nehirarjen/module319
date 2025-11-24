@@ -6,7 +6,7 @@
 Die Anzahl Bits ist 16.   
 
 4) final double exchangeRate = 1.22;[Die Variable exchangeRate kann während der Laufzeit verändert werden .] ist falsch ➞ Warum?   
-Weil "final" genau das verhindert.   
+Weil "final" genau das verhindert und sagt, dass es Konstant ist.
 
 5) [Bestimme geeigneter Datentyp zum Speicher von 2'200'500'000] ➞ Welche Datentypen sind möglich?   
 "long", "float" und "double" sind geeignet.   

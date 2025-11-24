@@ -9,7 +9,7 @@ Die Anzahl Bits ist 16.
 Weil "final" genau das verhindert und sagt, dass es Konstant ist.
 
 5) [Bestimme geeigneter Datentyp zum Speicher von 2'200'500'000] ➞ Welche Datentypen sind möglich?   
-"long", "float" und "double" sind geeignet.   
+"long", "float" und "double" sind geeignet, weil sie die Differenz zwischen der mind. und max. Zahl mehr als 2'200'500'000 beträgt (Wertebereich).
 
 6) Was bedeutet i++? Was passiert mit dem Inhalt der Variable i?   
-Der Inhalt von der Variable i steigt um 1.
+Abkürzung für + 1.

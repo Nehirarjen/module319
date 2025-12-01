@@ -25,3 +25,4 @@ Abkürzung für + 1.
 - Resultat in d abspeichern   
 - Wenn Differenz d grösser 0 ist, dann  d ausgeben und Programm beenden   
 - sonst a und b tauschen (umspeichern) und zurück zu *   
+  

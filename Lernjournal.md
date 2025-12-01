@@ -13,3 +13,15 @@ Weil "final" genau das verhindert und sagt, dass es Konstant ist.
 
 6) Was bedeutet i++? Was passiert mit dem Inhalt der Variable i?   
 Abkürzung für + 1.
+
+
+**A1 Verbesserungen**
+1) Kann ein AD einen Aufruf auf ein anderes AD machen? (Funktionsaufruf)
+   "Aktivität als Aufruf" ermöglichen, ein weiteres, separat definiertes AD auszuführen, d.h. aufzurufen.
+
+2) Zeichnen Sie ein AD das folgenden Ablauf  aufzeigt:   
+- Zwei Zahlen einlesen: a, b   
+- * Aufruf Abstraktion: Multiplikation von a und -b bilden, B um 10 reduzieren und Resultat zurück geben   
+- Resultat in d abspeichern   
+- Wenn Differenz d grösser 0 ist, dann  d ausgeben und Programm beenden   
+- sonst a und b tauschen (umspeichern) und zurück zu *   

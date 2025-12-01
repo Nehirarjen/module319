@@ -16,7 +16,7 @@ Abkürzung für + 1.
 
 
 **A1 Verbesserungen**
-1) Kann ein AD einen Aufruf auf ein anderes AD machen? (Funktionsaufruf)
+1) Kann ein AD einen Aufruf auf ein anderes AD machen? (Funktionsaufruf)   
    "Aktivität als Aufruf" ermöglichen, ein weiteres, separat definiertes AD auszuführen, d.h. aufzurufen.
 
 2) Zeichnen Sie ein AD das folgenden Ablauf  aufzeigt:   

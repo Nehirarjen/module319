@@ -21,7 +21,7 @@ Abkürzung für + 1.
 
 2) Zeichnen Sie ein AD das folgenden Ablauf  aufzeigt:   
 - Zwei Zahlen einlesen: a, b   
-- * Aufruf Abstraktion: Multiplikation von a und -b bilden, B um 10 reduzieren und Resultat zurück geben   
+-  Aufruf Abstraktion: Multiplikation von a und -b bilden, B um 10 reduzieren und Resultat zurück geben   
 - Resultat in d abspeichern   
 - Wenn Differenz d grösser 0 ist, dann  d ausgeben und Programm beenden   
 - sonst a und b tauschen (umspeichern) und zurück zu *   
